@@ -6,6 +6,9 @@
 
  ![image](https://github.com/jamjewel/Xray-classification/blob/a16e27bc6391765b13236e547fda973b7dc731d8/Page1.png)
   ![image](https://github.com/jamjewel/Xray-classification/blob/a16e27bc6391765b13236e547fda973b7dc731d8/Page2.png)
+   ![image](https://github.com/jamjewel/Xray-classification/blob/a16e27bc6391765b13236e547fda973b7dc731d8/Page3.png)
+    ![image](https://github.com/jamjewel/Xray-classification/blob/a16e27bc6391765b13236e547fda973b7dc731d8/Page4.png)
+     ![image](https://github.com/jamjewel/Xray-classification/blob/a16e27bc6391765b13236e547fda973b7dc731d8/Page5.png)
 
 Current stats of PA, AP, and AP Supine views. Labels 0=No or 1=Yes. Data loader is [here](https://github.com/mlmed/torchxrayvision/blob/master/torchxrayvision/datasets.py#L867)
 ``` 

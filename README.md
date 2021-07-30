@@ -50,7 +50,7 @@ COVID19_Dataset num_samples=173 views=['AP Supine']
  'Viral': {0.0: 41, 1.0: 132}}
 
  ```
- ![image](https://user-images.githubusercontent.com/53769636/127589965-d5b91665-21b1-40ec-a55d-bd4a2498bdd7.png)
+ ![image](https://github.com/jamjewel/Xray-classification/blob/a16e27bc6391765b13236e547fda973b7dc731d8/Page1.png)
 
 ## License
 

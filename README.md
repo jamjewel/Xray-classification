@@ -57,7 +57,7 @@ COVID19_Dataset num_samples=173 views=['AP Supine']
  ```
 
 
-## License
+## Data License
 
 Each image has license specified in the metadata.csv file. Including Apache 2.0, CC BY-NC-SA 4.0, CC BY 4.0.
 
